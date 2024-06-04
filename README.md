@@ -11,6 +11,10 @@ Solana Encode Bootcamp
  > > #### [June 3, 2024](./class1/README.md)
  > ### [Solana Theory / Rust]()
  > > #### [June 4, 2024](./class2/README.md)
+ > ### [name]()
+ > > #### [June 5, 2024](./class3/README.md)
+ > ### [name]()
+ > > #### [June 6, 2024](./class4/README.md)
  </details>
 
 Week 2 - Rust, Solana development/token program
