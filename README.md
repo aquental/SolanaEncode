@@ -13,8 +13,12 @@ Solana Encode Bootcamp
  > > #### [June 4, 2024](./class2/README.md)
  </details>
 
-Week 2 - Rust, Solana development / token program
+Week 2 - Rust, Solana development/token program
 
 Week 3 - Anchor framework
 
 Week 4 - Solana Program Library / Security
+
+Week 5 - Workshop week
+
+Week 6 - Project week
