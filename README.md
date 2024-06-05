@@ -9,7 +9,7 @@ Solana Encode Bootcamp
  
  > ### [Introduction to Blockchain, Rust, and Solana](https://youtu.be/sC_WzRACoPo)
  > > #### [June 3, 2024](./class1/README.md)
- > ### [Solana Theory / Rust]()
+ > ### [Solana Theory / Rust](https://youtu.be/gDzjyPgtFEk)
  > > #### [June 4, 2024](./class2/README.md)
  > ### [name]()
  > > #### [June 5, 2024](./class3/README.md)
