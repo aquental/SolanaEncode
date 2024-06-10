@@ -5,7 +5,7 @@ Solana Encode Bootcamp
 
 
 <details>
-<summary>Week 1 - Introduction to Blockchain, Solana and Rust :check:</summary>
+<summary>Week 1 - Introduction to Blockchain, Solana, and Rust ✔️ 🏁</summary>
  
  > ### [Introduction to Blockchain, Rust, and Solana](https://youtu.be/sC_WzRACoPo)
  > > #### [June 3, 2024](./class1/README.md)
