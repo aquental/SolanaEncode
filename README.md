@@ -21,12 +21,24 @@ Solana Encode Bootcamp
 <details>
 <summary>Week 2 - Rust, Solana development/token program</summary>
 
- </details>
+</details>
  
-Week 3 - Anchor framework
+<details>
+<summary>Week 3 - Anchor framework</summary>
 
-Week 4 - Solana Program Library / Security
+</details>
 
-Week 5 - Workshop week
+<details>
+<summary>Week 4 - Solana Program Library / Security</summary>
 
-Week 6 - Project week
+</details>
+
+<details>
+<summary>Week 5 - Workshop week</summary>
+
+</details>
+
+<details>
+<summary>Week 6 - Project week</summary>
+
+</details>
