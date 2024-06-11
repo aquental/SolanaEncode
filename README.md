@@ -21,6 +21,8 @@ Solana Encode Bootcamp
 <details>
 <summary>Week 2 - Rust, Solana development/token program</summary>
 
+ > ### [Solana accounts and development](https://youtu.be/KVESF-zzPyk)
+ > > #### [June 10, 2024](./class5/README.md)
 </details>
  
 <details>
