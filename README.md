@@ -23,7 +23,7 @@ Solana Encode Bootcamp
 
  > ### [Solana accounts and development](https://youtu.be/KVESF-zzPyk)
  > > #### [June 10, 2024](./class5/README.md)
- > ### [-]()
+ > ### [Rust / DeFi](https://youtu.be/PK7ct9svlCc)
  > > #### [June 11, 2024](./class6/README.md)
  > ### [-]()
  > > #### [June 12, 2024](./class7/README.md)
