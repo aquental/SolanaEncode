@@ -35,7 +35,7 @@ Solana Encode Bootcamp
 >
 > > #### [June 11, 2024](./class6/README.md)
 >
-> ### [?](-)
+> ### [Solana dev cont.](https://youtu.be/MLHXzdlqKyQ)
 >
 > > #### [June 12, 2024](./class7/README.md)
 >
