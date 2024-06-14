@@ -39,7 +39,7 @@ Solana Encode Bootcamp
 >
 > > #### [June 12, 2024](./class7/README.md)
 >
-> ### [?](-)
+> ### [PDAs in practise](https://youtu.be/D7KeffUKjAo)
 >
 > > #### [June 13, 2024](./class8/README.md)
 
