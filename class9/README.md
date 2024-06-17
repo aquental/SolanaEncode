@@ -1,7 +1,7 @@
-# Class 8 June 14, 2024
+# Class 9 June 17, 2024
 
-[Lesson 9](./Lesson8.pdf)
+[Lesson 9](./Lesson9.pdf)
 
-[Homework 8](./Homework8.pdf)
+[Homework 9](./Homework9.pdf)
 
 ### Links
