@@ -52,9 +52,13 @@ Solana Encode Bootcamp
 >
 > > #### [June 17, 2024](./class9/README.md)
 >
-> ### [?](-)
+> ### [Web3 introduction](https://youtu.be/D7eQOFxDQKY)
 >
 > > #### [June 18, 2024](./class10/README.md)
+>
+> ### [-]()
+>
+> > #### [June 19, 2024](./class11/README.md)
 >
 
 </details>
