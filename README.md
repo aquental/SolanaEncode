@@ -60,6 +60,9 @@ Solana Encode Bootcamp
 >
 > > #### [June 19, 2024](./class11/README.md)
 >
+> ### [-]()
+>
+> > #### [June 20, 2024](./class12/README.md)
 
 </details>
 
