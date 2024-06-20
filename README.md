@@ -56,7 +56,7 @@ Solana Encode Bootcamp
 >
 > > #### [June 18, 2024](./class10/README.md)
 >
-> ### [-]()
+> ### [SPL - Solana Pay](https://youtu.be/5ij-p1_vpew)
 >
 > > #### [June 19, 2024](./class11/README.md)
 >
