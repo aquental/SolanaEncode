@@ -69,6 +69,9 @@ Solana Encode Bootcamp
 <details>
 <summary>Week 4 - Solana Program Library / Security</summary>
 
+> ### [DeFi Continued / Security](https://youtu.be/I9EgOiTR5Pg)
+>
+
 </details>
 
 <details>
