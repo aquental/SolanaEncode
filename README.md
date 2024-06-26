@@ -71,6 +71,12 @@ Solana Encode Bootcamp
 
 > ### [DeFi Continued / Security](https://youtu.be/I9EgOiTR5Pg)
 >
+> > #### [June 25, 2024](./class13/README.md)
+>
+> ### [Versioned Transactions / Solidity](https://youtu.be/29pW1Ko05bY)
+>
+> > #### [June 26, 2024](./class14/README.md)
+>
 
 </details>
 
