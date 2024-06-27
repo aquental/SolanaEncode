@@ -77,6 +77,10 @@ Solana Encode Bootcamp
 >
 > > #### [June 26, 2024](./class14/README.md)
 >
+> ### [Compressed NFTs / Other topics](https://youtu.be/ouOR6YTq5ug)
+>
+> > #### [June 27, 2024](./class15/README.md)
+>
 
 </details>
 
