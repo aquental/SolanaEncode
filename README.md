@@ -71,13 +71,17 @@ Solana Encode Bootcamp
 
 > ### [DeFi Continued / Security](https://youtu.be/I9EgOiTR5Pg)
 >
-> > #### [June 25, 2024](./class13/README.md)
+> > #### [June 24, 2024](./class13/README.md)
 >
 > ### [Versioned Transactions / Solidity](https://youtu.be/29pW1Ko05bY)
 >
-> > #### [June 26, 2024](./class14/README.md)
+> > #### [June 25, 2024](./class14/README.md)
 >
 > ### [Compressed NFTs / Other topics](https://youtu.be/ouOR6YTq5ug)
+>
+> > #### [June 26, 2024](./class15/README.md)
+>
+> ### [Extra topics / Review](https://youtu.be/v4r0nFSE2EE)
 >
 > > #### [June 27, 2024](./class15/README.md)
 >
