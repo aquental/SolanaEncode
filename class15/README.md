@@ -1,4 +1,4 @@
-# Class 13 June 25, 2024
+# Class 13 June 26, 2024
 
 [Lesson 15](./Lesson15.pdf)
 

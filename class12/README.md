@@ -1,4 +1,4 @@
-# Class 10 June 19, 2024
+# Class 10 June 20, 2024
 
 [Lesson 12](./Lesson12.pdf)
 
