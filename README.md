@@ -92,6 +92,8 @@ Solana Encode Bootcamp
 <details>
 <summary>Week 5 - Workshop week 🏁</summary>
 
+> ### [Codigo session](https://youtu.be/9f6jG1L19iQ)
+
 </details>
 
 <details>
