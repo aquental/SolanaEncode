@@ -4,6 +4,8 @@ Solana Encode Bootcamp
 
 [Slido](https://app.sli.do/event/9UskLRMBi3gdzDyd9reDeS/live/polls)
 
+[Hacker Pack](https://encodeclub.notion.site/Encode-x-Solana-Bootcamp-Sponsored-by-the-Solana-Foundation-Q2-2024-0fce23e4c02542cd96d4d1a79ab3cdba)
+
 <details>
 <summary>Week 1 - Introduction to Blockchain, Solana, and Rust ✔️</summary>
  
