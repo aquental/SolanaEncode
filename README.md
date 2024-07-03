@@ -25,7 +25,7 @@ Solana Encode Bootcamp
  </details>
 
 <details>
-<summary>Week 2 - Rust, Solana development/token program 🏁</summary>
+<summary>Week 2 - Rust, Solana development/token program ✔️</summary>
 
 > ### [Solana accounts and development](https://youtu.be/KVESF-zzPyk)
 >
@@ -46,7 +46,7 @@ Solana Encode Bootcamp
 </details>
  
 <details>
-<summary>Week 3 - Anchor framework</summary>
+<summary>Week 3 - Anchor framework ✔️</summary>
 
 > ### [Anchor](https://youtu.be/6CsbNsHA5bw)
 >
@@ -67,7 +67,7 @@ Solana Encode Bootcamp
 </details>
 
 <details>
-<summary>Week 4 - Solana Program Library / Security</summary>
+<summary>Week 4 - Solana Program Library / Security ✔️</summary>
 
 > ### [DeFi Continued / Security](https://youtu.be/I9EgOiTR5Pg)
 >
@@ -84,12 +84,11 @@ Solana Encode Bootcamp
 > ### [Extra topics / Review](https://youtu.be/v4r0nFSE2EE)
 >
 > > #### [June 27, 2024](./class15/README.md)
->
 
 </details>
 
 <details>
-<summary>Week 5 - Workshop week</summary>
+<summary>Week 5 - Workshop week 🏁</summary>
 
 </details>
 
