@@ -4,4 +4,4 @@
 
 [Awesome Blinks](https://github.com/solana-developers/awesome-blinks)
 
-[Solana Actions - Getting started - v1]()
+[Solana Actions - Getting started - v1]("SolanaEncode/wk-actions-blinks/Solana Actions - Getting started - v1.pdf")
