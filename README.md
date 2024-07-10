@@ -95,6 +95,7 @@ Solana Encode Bootcamp
 > ### [Codigo session](https://youtu.be/9f6jG1L19iQ)
 >
 > ### [Actions & Blinks workshop](https://youtu.be/hksx4Hapz8U)
+> > #### [July 6, 2024](./wk-actions-blinks/README.md)
 
 </details>
 
