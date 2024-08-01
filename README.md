@@ -103,3 +103,7 @@ Solana Encode Bootcamp
 <summary>Week 6 - Project week</summary>
 
 </details>
+
+#### WBA Links
+
+[Bonus Lesson - Umi Module Overview](https://github.com/Web3-Builders-Alliance/cohort-helper/tree/main/BonusResources/umi)
