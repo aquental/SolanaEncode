@@ -106,4 +106,6 @@ Solana Encode Bootcamp
 
 #### WBA Links
 
+[Cohort Helper](https://github.com/Web3-Builders-Alliance/cohort-helper/tree/main)
+
 [Bonus Lesson - Umi Module Overview](https://github.com/Web3-Builders-Alliance/cohort-helper/tree/main/BonusResources/umi)
