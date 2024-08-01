@@ -109,3 +109,5 @@ Solana Encode Bootcamp
 [Cohort Helper](https://github.com/Web3-Builders-Alliance/cohort-helper/tree/main)
 
 [Bonus Lesson - Umi Module Overview](https://github.com/Web3-Builders-Alliance/cohort-helper/tree/main/BonusResources/umi)
+
+[Solana - How it works](https://solanahowitworks.xyz/)
