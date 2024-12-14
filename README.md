@@ -90,17 +90,18 @@ Solana Encode Bootcamp
 </details>
 
 <details>
-<summary>Week 5 - Workshop week 🏁</summary>
+<summary>Week 5 - Workshop week ✔️</summary>
 
 > ### [Codigo session](https://youtu.be/9f6jG1L19iQ)
 >
 > ### [Actions & Blinks workshop](https://youtu.be/hksx4Hapz8U)
+>
 > > #### [July 6, 2024](./wk-actions-blinks/README.md)
 
 </details>
 
 <details>
-<summary>Week 6 - Project week</summary>
+<summary>Week 6 - Project week ✔️</summary>
 
 </details>
 
